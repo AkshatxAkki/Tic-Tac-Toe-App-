@@ -1,6 +1,6 @@
-# tic_tac
+# TIC TAC TOE Game
 
-A new Flutter project.
+A new Flutter android application on tic tac toe game.
 
 ## Getting Started
 
